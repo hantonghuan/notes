@@ -1,0 +1,195 @@
+<errorentry>
+	<datetime>2017-04-25 03:29:20 (UTC)</datetime>
+	<errornum>8</errornum>
+	<errortype>Notice</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED'</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>99</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:29:20 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Vectors need to be of the same size</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>74</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='2'><number>1</number><number>-3</number></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:29:20 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Incorrect parameters, arrays expected</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>69</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='vect2'><string>i am not an array</string></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:29:20 (UTC)</datetime>
+	<errornum>512</errornum>
+	<errortype>User Warning</errortype>
+	<errormsg>Coordinate 2 in vector 1 is not a number, using zero</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>83</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>2</number><number>3</number><string>foo</string></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='i'><number>2</number></var><var name='c1'><string>foo</string></var><var name='c2'><number>-1.6</number></var><var name='d'><number>0</number></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:11 (UTC)</datetime>
+	<errornum>8</errornum>
+	<errortype>Notice</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED'</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>99</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:11 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Vectors need to be of the same size</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>74</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='2'><number>1</number><number>-3</number></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:11 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Incorrect parameters, arrays expected</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>69</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='vect2'><string>i am not an array</string></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:11 (UTC)</datetime>
+	<errornum>512</errornum>
+	<errortype>User Warning</errortype>
+	<errormsg>Coordinate 2 in vector 1 is not a number, using zero</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>83</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>2</number><number>3</number><string>foo</string></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='i'><number>2</number></var><var name='c1'><string>foo</string></var><var name='c2'><number>-1.6</number></var><var name='d'><number>0</number></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:42 (UTC)</datetime>
+	<errornum>8</errornum>
+	<errortype>Notice</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED'</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>99</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:42 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Vectors need to be of the same size</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>74</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='2'><number>1</number><number>-3</number></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:42 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Incorrect parameters, arrays expected</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>69</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='vect2'><string>i am not an array</string></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:42 (UTC)</datetime>
+	<errornum>512</errornum>
+	<errortype>User Warning</errortype>
+	<errormsg>Coordinate 2 in vector 1 is not a number, using zero</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>83</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>2</number><number>3</number><string>foo</string></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='i'><number>2</number></var><var name='c1'><string>foo</string></var><var name='c2'><number>-1.6</number></var><var name='d'><number>0</number></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:51 (UTC)</datetime>
+	<errornum>8</errornum>
+	<errortype>Notice</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED'</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>99</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:51 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Vectors need to be of the same size</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>74</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='2'><number>1</number><number>-3</number></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:51 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Incorrect parameters, arrays expected</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>69</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='vect2'><string>i am not an array</string></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:36:51 (UTC)</datetime>
+	<errornum>512</errornum>
+	<errortype>User Warning</errortype>
+	<errormsg>Coordinate 2 in vector 1 is not a number, using zero</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>83</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>2</number><number>3</number><string>foo</string></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='i'><number>2</number></var><var name='c1'><string>foo</string></var><var name='c2'><number>-1.6</number></var><var name='d'><number>0</number></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:37:03 (UTC)</datetime>
+	<errornum>8</errornum>
+	<errortype>Notice</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED'</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>99</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:37:03 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Vectors need to be of the same size</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>74</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='2'><number>1</number><number>-3</number></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:37:03 (UTC)</datetime>
+	<errornum>256</errornum>
+	<errortype>User Error</errortype>
+	<errormsg>Incorrect parameters, arrays expected</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>69</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='vect2'><string>i am not an array</string></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
+<errorentry>
+	<datetime>2017-04-25 03:37:03 (UTC)</datetime>
+	<errornum>512</errornum>
+	<errortype>User Warning</errortype>
+	<errormsg>Coordinate 2 in vector 1 is not a number, using zero</errormsg>
+	<scriptname>/vagrant_data/www/test/error/test.php</scriptname>
+	<scriptlinenum>83</scriptlinenum>
+	<vartrace><wddxPacket version='1.0'><header><comment>Variables</comment></header><data><struct><var name='vect1'><array length='3'><number>2</number><number>3</number><string>foo</string></array></var><var name='vect2'><array length='3'><number>5.5</number><number>4.3</number><number>-1.6</number></array></var><var name='i'><number>2</number></var><var name='c1'><string>foo</string></var><var name='c2'><number>-1.6</number></var><var name='d'><number>0</number></var></struct></data></wddxPacket></vartrace>
+</errorentry>
+
