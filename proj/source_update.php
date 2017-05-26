@@ -11,7 +11,7 @@ if (empty($data_str)) {
 }
 $curl = new curl();
 foreach ($data_str as $val) {
-	if (empty($val['id']) || empty($val['score'])) {
+	if (empty($val['id']) || !isset($val['score'])) {
 		continue;
 	}
 	$url = sprintf('http://i.search.toutiao.weibo.cn:9200/source_score/source/%d', $val['id']);
